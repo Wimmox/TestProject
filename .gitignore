@@ -1,0 +1,7 @@
+cd ~/Documents/TestProject
+# Remove from git tracking (but keep local file)
+git rm --cached .DS_Store
+# Commit the removal
+git add .gitignore
+git commit -m "Remove .DS_Store files and add to gitignore"
+git push
