@@ -1,0 +1,6 @@
+Hoi, dit is een testje om te kijken of het werkt.
+
+
+Ohja, ik moet een van die code-complete plugins installeren in VS Code.
+1
+this is a testje
